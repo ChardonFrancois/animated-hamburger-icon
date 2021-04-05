@@ -1,1 +1,1 @@
-# animated-hamburger-icon
+# Burger icon animation
